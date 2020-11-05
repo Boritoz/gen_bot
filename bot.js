@@ -69,4 +69,4 @@ client.on('message', message => {
 	}
 });
  
-client.login('NzcxNjk3NjEwODM3OTgzMjQy.X5v5Zw.-RnTZFiBDyygnfDjC-xI7D0dcQA'); //Ton token
+client.login('. . .'); //Ton token
